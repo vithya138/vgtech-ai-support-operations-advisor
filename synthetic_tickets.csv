@@ -1,0 +1,101 @@
+ticket_id,created_date,country,issue_category,issue_signature,priority,status,resolution_hours,sla_breached,escalated,knowledge_article_id
+INC-0058,2026-09-06,Australia,File Transfer,SFTP truncated file,P4,Resolved,16.94,false,false,
+INC-0063,2026-09-13,Australia,File Transfer,SFTP truncated file,P4,Closed,5.76,false,false,
+INC-0053,2026-09-26,Singapore,API Integration,API authentication error,P4,Resolved,13.39,false,false,KB-204
+INC-0075,2026-09-23,Australia,Reporting,Reporting export failed,P2,Closed,8.98,true,false,KB-308
+INC-0011,2026-09-27,Australia,SSO / Login,SSO token expired,P3,Resolved,6.17,false,true,KB-101
+INC-0021,2026-09-27,Australia,SSO / Login,SSO token expired,P4,Closed,9.05,false,false,KB-101
+INC-0095,2026-09-08,Malaysia,API Integration,Webhook delivery delayed,P3,Open,,false,false,
+INC-0051,2026-09-29,Singapore,API Integration,API authentication error,P4,Resolved,4.87,false,false,KB-204
+INC-0091,2026-09-12,Malaysia,API Integration,Webhook delivery delayed,P4,Closed,2.62,false,false,
+INC-0070,2026-09-25,Malaysia,Reporting,Reporting export failed,P3,Resolved,11.98,true,false,KB-308
+INC-0066,2026-09-26,Australia,File Transfer,SFTP truncated file,P3,Resolved,8.23,false,false,
+INC-0093,2026-09-23,Malaysia,API Integration,Webhook delivery delayed,P2,Open,,false,false,
+INC-0052,2026-09-26,Malaysia,API Integration,API authentication error,P4,Closed,16.7,false,false,KB-204
+INC-0050,2026-09-12,Australia,API Integration,API authentication error,P1,Resolved,14.24,false,true,KB-204
+INC-0083,2026-09-09,Australia,SSO / Login,MFA reset failure,P3,Resolved,8.0,false,true,KB-110
+INC-0082,2026-09-19,Malaysia,SSO / Login,MFA reset failure,P4,Open,,false,false,KB-110
+INC-0027,2026-09-17,Singapore,Payroll Processing,Payroll batch timeout,P3,Resolved,1.68,true,false,
+INC-0034,2026-09-13,Singapore,Payroll Processing,Payroll batch timeout,P2,Resolved,4.24,false,true,
+INC-0081,2026-09-27,Malaysia,SSO / Login,MFA reset failure,P3,Resolved,12.21,false,false,KB-110
+INC-0015,2026-09-05,Singapore,SSO / Login,SSO token expired,P4,Resolved,9.14,false,false,KB-101
+INC-0073,2026-09-14,Australia,Reporting,Reporting export failed,P3,Closed,8.25,false,false,KB-308
+INC-0094,2026-09-18,Singapore,API Integration,Webhook delivery delayed,P3,Closed,17.4,false,false,
+INC-0042,2026-09-17,Singapore,API Integration,API authentication error,P1,Closed,14.49,true,true,KB-204
+INC-0079,2026-09-27,Australia,SSO / Login,MFA reset failure,P3,Resolved,6.66,false,false,KB-110
+INC-0067,2026-09-27,Australia,Reporting,Reporting export failed,P2,Resolved,9.52,false,true,KB-308
+INC-0088,2026-09-25,Australia,Payroll Processing,Payroll rounding mismatch,P2,Resolved,11.1,false,false,
+INC-0014,2026-09-12,Singapore,SSO / Login,SSO token expired,P3,Resolved,13.57,false,false,KB-101
+INC-0072,2026-09-18,Singapore,Reporting,Reporting export failed,P4,Resolved,2.83,false,false,KB-308
+INC-0018,2026-09-01,Australia,SSO / Login,SSO token expired,P3,Closed,6.45,false,true,KB-101
+INC-0061,2026-09-24,Malaysia,File Transfer,SFTP truncated file,P1,Open,,false,true,
+INC-0057,2026-09-13,Malaysia,File Transfer,SFTP truncated file,P4,Open,,false,false,
+INC-0006,2026-09-21,Australia,SSO / Login,SSO token expired,P3,Resolved,16.64,true,false,KB-101
+INC-0020,2026-09-18,Australia,SSO / Login,SSO token expired,P2,Closed,11.16,true,false,KB-101
+INC-0092,2026-09-27,Australia,API Integration,Webhook delivery delayed,P3,Resolved,9.35,false,false,
+INC-0010,2026-09-09,Australia,SSO / Login,SSO token expired,P2,Closed,9.85,true,false,KB-101
+INC-0044,2026-09-27,Australia,API Integration,API authentication error,P3,Closed,17.78,false,true,KB-204
+INC-0089,2026-09-13,Singapore,Payroll Processing,Payroll rounding mismatch,P4,Resolved,0.95,false,false,
+INC-0054,2026-09-04,Australia,API Integration,API authentication error,P4,Open,,false,false,KB-204
+INC-0026,2026-09-01,Singapore,Payroll Processing,Payroll batch timeout,P2,Resolved,0.87,false,false,
+INC-0005,2026-09-02,Malaysia,SSO / Login,SSO token expired,P2,Resolved,6.78,false,true,KB-101
+INC-0008,2026-09-15,Malaysia,SSO / Login,SSO token expired,P4,Open,,false,false,KB-101
+INC-0048,2026-09-15,Malaysia,API Integration,API authentication error,P1,Resolved,3.91,false,true,KB-204
+INC-0065,2026-09-14,Singapore,File Transfer,SFTP truncated file,P3,Resolved,10.09,true,false,
+INC-0078,2026-09-29,Singapore,SSO / Login,MFA reset failure,P4,Resolved,13.97,false,true,KB-110
+INC-0012,2026-09-23,Singapore,SSO / Login,SSO token expired,P4,Resolved,1.66,false,false,KB-101
+INC-0022,2026-09-27,Malaysia,SSO / Login,SSO token expired,P2,Resolved,10.43,true,false,KB-101
+INC-0029,2026-09-12,Malaysia,Payroll Processing,Payroll batch timeout,P2,Resolved,7.62,true,false,
+INC-0097,2026-09-09,Singapore,Reporting,Dashboard permission denied,P3,Resolved,9.03,false,false,KB-309
+INC-0031,2026-09-18,Singapore,Payroll Processing,Payroll batch timeout,P1,Closed,20.31,true,true,
+INC-0060,2026-09-23,Malaysia,File Transfer,SFTP truncated file,P3,Resolved,7.24,false,false,
+INC-0074,2026-09-27,Australia,Reporting,Reporting export failed,P3,Resolved,15.58,false,false,KB-308
+INC-0001,2026-09-24,Australia,SSO / Login,SSO token expired,P2,Closed,4.79,true,true,KB-101
+INC-0007,2026-09-25,Australia,SSO / Login,SSO token expired,P4,Resolved,3.87,true,false,KB-101
+INC-0032,2026-09-26,Malaysia,Payroll Processing,Payroll batch timeout,P2,Resolved,8.6,false,true,
+INC-0049,2026-09-05,Australia,API Integration,API authentication error,P3,Closed,2.46,false,false,KB-204
+INC-0056,2026-09-11,Malaysia,File Transfer,SFTP truncated file,P2,Closed,4.48,true,true,
+INC-0084,2026-09-27,Malaysia,Payroll Processing,Payroll rounding mismatch,P3,Resolved,6.41,false,false,
+INC-0009,2026-09-22,Australia,SSO / Login,SSO token expired,P4,Resolved,6.72,false,false,KB-101
+INC-0098,2026-09-24,Australia,Reporting,Dashboard permission denied,P3,Resolved,0.68,false,true,KB-309
+INC-0019,2026-09-28,Australia,SSO / Login,SSO token expired,P4,Resolved,9.26,false,false,KB-101
+INC-0064,2026-09-29,Australia,File Transfer,SFTP truncated file,P2,Resolved,7.86,false,false,
+INC-0004,2026-09-25,Singapore,SSO / Login,SSO token expired,P3,Resolved,7.9,false,false,KB-101
+INC-0003,2026-09-26,Australia,SSO / Login,SSO token expired,P2,Closed,10.04,true,false,KB-101
+INC-0077,2026-09-02,Australia,SSO / Login,MFA reset failure,P2,Resolved,7.76,false,false,KB-110
+INC-0017,2026-09-29,Australia,SSO / Login,SSO token expired,P2,Closed,16.99,false,true,KB-101
+INC-0002,2026-09-01,Australia,SSO / Login,SSO token expired,P2,Resolved,1.02,true,false,KB-101
+INC-0039,2026-09-02,Singapore,Payroll Processing,Payroll batch timeout,P3,Open,,false,false,
+INC-0023,2026-09-06,Singapore,Payroll Processing,Payroll batch timeout,P4,Resolved,2.7,false,false,
+INC-0047,2026-09-27,Malaysia,API Integration,API authentication error,P3,Resolved,16.39,true,false,KB-204
+INC-0087,2026-09-15,Singapore,Payroll Processing,Payroll rounding mismatch,P3,Resolved,8.79,true,false,
+INC-0038,2026-09-28,Singapore,Payroll Processing,Payroll batch timeout,P1,Resolved,21.56,true,true,
+INC-0080,2026-09-09,Malaysia,SSO / Login,MFA reset failure,P3,Closed,14.5,false,false,KB-110
+INC-0013,2026-09-05,Malaysia,SSO / Login,SSO token expired,P2,Resolved,15.98,false,true,KB-101
+INC-0037,2026-09-17,Australia,Payroll Processing,Payroll batch timeout,P1,Resolved,1.93,false,false,
+INC-0099,2026-09-26,Malaysia,Reporting,Dashboard permission denied,P3,Closed,12.59,false,false,KB-309
+INC-0076,2026-09-13,Malaysia,SSO / Login,MFA reset failure,P2,Resolved,16.13,true,true,KB-110
+INC-0036,2026-09-24,Australia,Payroll Processing,Payroll batch timeout,P3,Resolved,3.82,false,true,
+INC-0062,2026-09-11,Australia,File Transfer,SFTP truncated file,P3,Resolved,1.72,false,false,
+INC-0028,2026-09-19,Singapore,Payroll Processing,Payroll batch timeout,P2,Resolved,9.94,false,false,
+INC-0085,2026-09-12,Malaysia,Payroll Processing,Payroll rounding mismatch,P2,Resolved,0.84,false,false,
+INC-0024,2026-09-23,Malaysia,Payroll Processing,Payroll batch timeout,P3,Closed,17.38,false,false,
+INC-0069,2026-09-23,Australia,Reporting,Reporting export failed,P4,Resolved,7.75,false,false,KB-308
+INC-0086,2026-09-07,Singapore,Payroll Processing,Payroll rounding mismatch,P3,Closed,11.91,false,false,
+INC-0041,2026-09-30,Australia,API Integration,API authentication error,P3,Resolved,2.79,false,false,KB-204
+INC-0025,2026-09-15,Singapore,Payroll Processing,Payroll batch timeout,P3,Resolved,12.25,false,false,
+INC-0016,2026-09-15,Australia,SSO / Login,SSO token expired,P2,Closed,10.94,false,false,KB-101
+INC-0030,2026-09-21,Malaysia,Payroll Processing,Payroll batch timeout,P3,Open,,true,false,
+INC-0033,2026-09-25,Australia,Payroll Processing,Payroll batch timeout,P2,Closed,9.96,true,true,
+INC-0040,2026-09-22,Australia,API Integration,API authentication error,P2,Closed,10.39,false,true,KB-204
+INC-0035,2026-09-24,Singapore,Payroll Processing,Payroll batch timeout,P4,Resolved,14.22,false,false,
+INC-0059,2026-09-11,Australia,File Transfer,SFTP truncated file,P4,Resolved,2.4,false,false,
+INC-0090,2026-09-23,Malaysia,Payroll Processing,Payroll rounding mismatch,P4,Resolved,10.86,false,false,
+INC-0046,2026-09-21,Australia,API Integration,API authentication error,P3,Resolved,11.08,false,false,KB-204
+INC-0043,2026-09-15,Malaysia,API Integration,API authentication error,P2,Resolved,1.7,true,true,KB-204
+INC-0100,2026-09-16,Singapore,Reporting,Dashboard permission denied,P2,Resolved,12.61,false,false,KB-309
+INC-0096,2026-09-11,Singapore,API Integration,Webhook delivery delayed,P2,Resolved,13.63,false,false,
+INC-0055,2026-09-15,Malaysia,File Transfer,SFTP truncated file,P4,Open,,false,false,
+INC-0045,2026-09-04,Australia,API Integration,API authentication error,P2,Closed,16.93,true,true,KB-204
+INC-0068,2026-09-16,Singapore,Reporting,Reporting export failed,P3,Resolved,3.98,true,false,KB-308
+INC-0071,2026-09-18,Singapore,Reporting,Reporting export failed,P3,Resolved,14.57,false,false,KB-308
